@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IbXnSFzr7KpqEIX8sNmrd+IgCct2t1lh+QthkDWrKhqO8LiTQDzk2+hh6AZ9yNZtToPsEro4OtyA65hp6M0RtQ==",
+  "success": true,
+  "projectFilePath": "/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/Arrays_Strings.csproj",
+  "expectedPackageFiles": [
+    "/Users/showjoo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "/Users/showjoo/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.12/microsoft.netcore.app.host.osx-x64.6.0.12.nupkg.sha512",
+    "/Users/showjoo/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

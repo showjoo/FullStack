@@ -1,0 +1,15 @@
+/Users/showjoo/Desktop/icc/Antra/FullStack/02UnderstandingTypes/Exercise03/obj/Debug/net6.0/Exercise03.csproj.AssemblyReference.cache
+/Users/showjoo/Desktop/icc/Antra/FullStack/02UnderstandingTypes/Exercise03/obj/Debug/net6.0/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/showjoo/Desktop/icc/Antra/FullStack/02UnderstandingTypes/Exercise03/obj/Debug/net6.0/Exercise03.AssemblyInfoInputs.cache
+/Users/showjoo/Desktop/icc/Antra/FullStack/02UnderstandingTypes/Exercise03/obj/Debug/net6.0/Exercise03.AssemblyInfo.cs
+/Users/showjoo/Desktop/icc/Antra/FullStack/02UnderstandingTypes/Exercise03/obj/Debug/net6.0/Exercise03.csproj.CoreCompileInputs.cache
+/Users/showjoo/Desktop/icc/Antra/FullStack/02UnderstandingTypes/Exercise03/bin/Debug/net6.0/Exercise03
+/Users/showjoo/Desktop/icc/Antra/FullStack/02UnderstandingTypes/Exercise03/bin/Debug/net6.0/Exercise03.deps.json
+/Users/showjoo/Desktop/icc/Antra/FullStack/02UnderstandingTypes/Exercise03/bin/Debug/net6.0/Exercise03.runtimeconfig.json
+/Users/showjoo/Desktop/icc/Antra/FullStack/02UnderstandingTypes/Exercise03/bin/Debug/net6.0/Exercise03.dll
+/Users/showjoo/Desktop/icc/Antra/FullStack/02UnderstandingTypes/Exercise03/bin/Debug/net6.0/Exercise03.pdb
+/Users/showjoo/Desktop/icc/Antra/FullStack/02UnderstandingTypes/Exercise03/obj/Debug/net6.0/Exercise03.dll
+/Users/showjoo/Desktop/icc/Antra/FullStack/02UnderstandingTypes/Exercise03/obj/Debug/net6.0/refint/Exercise03.dll
+/Users/showjoo/Desktop/icc/Antra/FullStack/02UnderstandingTypes/Exercise03/obj/Debug/net6.0/Exercise03.pdb
+/Users/showjoo/Desktop/icc/Antra/FullStack/02UnderstandingTypes/Exercise03/obj/Debug/net6.0/Exercise03.genruntimeconfig.cache
+/Users/showjoo/Desktop/icc/Antra/FullStack/02UnderstandingTypes/Exercise03/obj/Debug/net6.0/ref/Exercise03.dll

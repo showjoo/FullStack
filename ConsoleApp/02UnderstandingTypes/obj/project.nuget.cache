@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yybc+E8O0/c1QxZKz1K8sFbMMR6Y1U5MsA/CEpJYADs9L8Qr7y46bTBAEKME8HEmznBmVwbFuRmmDELjOQwZlw==",
+  "success": true,
+  "projectFilePath": "/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/02UnderstandingTypes/02UnderstandingTypes.csproj",
+  "expectedPackageFiles": [
+    "/Users/showjoo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "/Users/showjoo/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.12/microsoft.netcore.app.host.osx-x64.6.0.12.nupkg.sha512",
+    "/Users/showjoo/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

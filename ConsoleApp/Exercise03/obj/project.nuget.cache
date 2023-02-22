@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IoVeXJZ/MpKIfzUW/XGJui00/oeU/qpd84un0SUISq3virptgLfsq0pTLPzJuTKUNd2IRFK4ISOD6o0HKvoaDw==",
+  "success": true,
+  "projectFilePath": "/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Exercise03/Exercise03.csproj",
+  "expectedPackageFiles": [
+    "/Users/showjoo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "/Users/showjoo/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.12/microsoft.netcore.app.host.osx-x64.6.0.12.nupkg.sha512",
+    "/Users/showjoo/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

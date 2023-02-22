@@ -1,0 +1,15 @@
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/bin/Debug/net6.0/Arrays_Strings
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/bin/Debug/net6.0/Arrays_Strings.deps.json
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/bin/Debug/net6.0/Arrays_Strings.runtimeconfig.json
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/bin/Debug/net6.0/Arrays_Strings.dll
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/bin/Debug/net6.0/Arrays_Strings.pdb
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/obj/Debug/net6.0/Arrays_Strings.csproj.AssemblyReference.cache
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/obj/Debug/net6.0/Arrays_Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/obj/Debug/net6.0/Arrays_Strings.AssemblyInfoInputs.cache
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/obj/Debug/net6.0/Arrays_Strings.AssemblyInfo.cs
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/obj/Debug/net6.0/Arrays_Strings.csproj.CoreCompileInputs.cache
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/obj/Debug/net6.0/Arrays_Strings.dll
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/obj/Debug/net6.0/refint/Arrays_Strings.dll
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/obj/Debug/net6.0/Arrays_Strings.pdb
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/obj/Debug/net6.0/Arrays_Strings.genruntimeconfig.cache
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/Arrays_Strings/obj/Debug/net6.0/ref/Arrays_Strings.dll
