@@ -1,0 +1,15 @@
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/OOP/bin/Debug/net6.0/OOP
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/OOP/bin/Debug/net6.0/OOP.deps.json
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/OOP/bin/Debug/net6.0/OOP.runtimeconfig.json
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/OOP/bin/Debug/net6.0/OOP.dll
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/OOP/bin/Debug/net6.0/OOP.pdb
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/OOP/obj/Debug/net6.0/OOP.csproj.AssemblyReference.cache
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/OOP/obj/Debug/net6.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/OOP/obj/Debug/net6.0/OOP.AssemblyInfoInputs.cache
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/OOP/obj/Debug/net6.0/OOP.AssemblyInfo.cs
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/OOP/obj/Debug/net6.0/OOP.csproj.CoreCompileInputs.cache
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/OOP/obj/Debug/net6.0/OOP.dll
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/OOP/obj/Debug/net6.0/refint/OOP.dll
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/OOP/obj/Debug/net6.0/OOP.pdb
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/OOP/obj/Debug/net6.0/OOP.genruntimeconfig.cache
+/Users/showjoo/Desktop/icc/Antra/FullStack/ConsoleApp/OOP/obj/Debug/net6.0/ref/OOP.dll
