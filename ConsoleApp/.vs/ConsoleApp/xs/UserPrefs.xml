@@ -1,16 +1,10 @@
-﻿<Properties StartupConfiguration="{943207F1-B439-4C54-92DA-B73791C45755}|Default">
-  <MonoDevelop.Ide.ItemProperties.Arrays__Strings PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.OOP PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="OOP/Program.cs">
+﻿<Properties StartupConfiguration="{A50B364B-FE3D-4D4B-B549-26E7EFE48273}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generics/IRepository.cs">
     <Files>
-      <File FileName="OOP/Program.cs" Line="21" Column="66" />
-      <File FileName="OOP/Person.cs" Line="94" Column="25" />
-      <File FileName="OOP/Department.cs" Line="11" Column="1" />
-      <File FileName="OOP/Course.cs" Line="9" Column="1" />
-      <File FileName="OOP/Service.cs" Line="19" Column="36" />
-      <File FileName="OOP/Color.cs" Line="4" Column="20" />
-      <File FileName="OOP/Ball.cs" Line="31" Column="21" />
+      <File FileName="Generics/Program.cs" Line="22" Column="9" />
+      <File FileName="Generics/MyStack.cs" Line="24" Column="5" />
+      <File FileName="Generics/MyList.cs" Line="80" Column="9" />
+      <File FileName="Generics/IRepository.cs" Line="48" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,19 +13,24 @@
             <Node name="02UnderstandingTypes" expanded="True" />
             <Node name="Arrays_Strings" expanded="True" />
             <Node name="Exercise03" expanded="True" />
-            <Node name="OOP" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="Generics" expanded="True">
+              <Node name="IRepository.cs" selected="True" />
             </Node>
+            <Node name="OOP" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.02UnderstandingTypes PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Exercise03 FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Arrays__Strings PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.OOP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Exercise03 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02UnderstandingTypes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>
