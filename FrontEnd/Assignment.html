@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Homework: HTML5 Tables</title>
+    <style>
+        tr{
+            text-align: center;
+        }
+        button{
+            width: 90%;
+            height: 90%;
+            background-color: blanchedalmond;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Problem1: Simple Table</h2>
+    <table width="1000">
+        <tr>
+            <td colspan="3" align="left"><a href="https://antra.com"><img src="https://antra.com/wp-content/uploads/2021/02/2021-02-18-2.png" width="100"></a></td>
+        </tr>
+        <tr>
+            <td><img src="https://antra.com/wp-content/uploads/2017/10/if_Graph-Magnifier_379472.png" width="200"></td>
+            <td><img src="https://antra.com/wp-content/uploads/2017/10/if_Studio_1562691.png" width="200"></td>
+            <td><img src="https://antra.com/wp-content/uploads/2017/10/if_law_iconsArtboard_1_copy_3_2393031.png" width="200"></td>
+        </tr>
+        <tr>
+            <td><b>Business Advisory Services</b></td>
+            <td><strong>Technology Services</strong></td>
+            <td><b>Professional Services</b></td>
+        </tr>
+        <tr>
+            <td>Our business advisory services assist our clients to align IT capabilities with their business needs to drive growth and productivity. Hence deriving a greater value from IT! We continually seek better ways of collaborating with our clients, work more cohesively to understand their business issues.</td>
+            <td>Harness the power of emerging technologies while leveraging most out of the legacy IT. Antra offers full spectrum of technology services for business to achieve its business goals .Our differentiation starts with core fundamental elements required for your technology enablement.</td>
+            <td>Our motto is to bridge skill gap, and foster on agile technologies to support growth of various organizations! Antra’s full range of workforce solutions and service delivery models equips our clients with the right people, skills and competencies required to get IT done.</td>
+        </tr>
+    </table>
+    <hr>
+    <h2>Problem2: Exam Results</h2>
+    <table border=1 width="500">
+        <thead>
+            <td colspan="4"><font size="+2"><b>Web fundamentals exam results</b></font></td>
+        </thead>
+        <tbody>
+            <tr>
+                <th>No</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Score</th>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td>Gosho</td>
+                <td>Goshev</td>
+                <td>500</td>
+            </tr>
+            <tr>
+                <td>02</td>
+                <td>Tosho</td>
+                <td>Toshev</td>
+                <td>500</td>
+            </tr>
+            <tr>
+                <td>03</td>
+                <td>Pesho</td>
+                <td>Pesho</td>
+                <td>500</td>
+            </tr>
+            <tr>
+                <td>04</td>
+                <td>Gencho</td>
+                <td>Genchev</td>
+                <td>500</td>
+            </tr>
+            <tr>
+                <td>05</td>
+                <td>Draga</td>
+                <td>Draganova</td>
+                <td>500</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <td align="right" colspan="4">Average score from 5 participants: 500</td>
+        </tfoot>
+    </table>
+    <hr>
+    <h2>Problem3: Nested Tables</h2>
+    <table border = "1" width="600">
+        <tr>
+            <td><a href="https://antra.com"><img src="https://antra.com/wp-content/uploads/2021/02/2021-02-18-2.png" width="200"></a></td>
+            <td width = "400" height = "200" align = "center">
+                <table border="1" width = "380" height = "180">
+                    <tr>
+                        <td><font size="+2"><b>Software</b></font></td>
+                    </tr>
+                    <tr>
+                        <td><font size="+2"><b>Developer</b></font></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <hr>
+    <h2>Problem4: Life in Antra</h2>
+    <table border = "1" width= "500" height="500">
+        <tr>
+            <th colspan="4"><font size="+3"><b>Antra Life</b></font></th>
+        </tr>
+        <tr>
+            <td colspan="2" align="left" valign="top">Google</td>
+            <td colspan="2" align="right" valign="top">Github</td>
+        </tr>
+        <tr>
+            <td width="150" align="center" valign="top">FB</td>
+            <td width="150" align="left" valign="center">Gmail</td>
+            <td width="150" align="center" valign="bottom">Youtube</td>
+            <td width="150" align="left" valign="center">2048</td>
+        </tr>
+        <tr>
+            <td align="right" valign="bottom">Food</td>
+            <td align="left" valign="bottom" colspan="2">Game</td>
+            <td>    
+                <table border="1" align = "center" width="90%" height="90%">
+                <tr>
+                    <td>Social Life</td>
+                </tr>
+                <tr>
+                    <td>Sleep</td>
+                </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" align="right"><b>Beer</b></td>
+            <td align="left">WC</td>
+        </tr>
+    </table>
+    <hr>
+    <h2>Problem5: Life in Antra Keyboard</h2>
+    <table border = "1" width= "500" height="500">
+        <tr>
+            <th colspan="4" bgcolor="blanchedalmond"><font size="+3"><b>Antra Life</b></font></th>
+        </tr>
+        <tr>
+            <td colspan="2"><a href="https://www.google.com" target="_blank"><button type="button">Google</button></a></td>
+            <td colspan="2"><a href="https://www.github.com" target="_blank"><button type="button">Github</button></a></td>
+        </tr>
+        <tr>
+            <td width="150"><a href="https://www.facebook.com" target="_blank"><button type="button">FB</button></a></td>
+            <td width="150"><a href="https://www.gmail.com" target="_blank"><button type="button">Gmail</button></a></td>
+            <td width="150"><a href="https://www.youtube.com" target="_blank"><button type="button">Youtube</button></a></td>
+            <td width="150"><a href="https://www.2048.org" target="_blank"><button type="button">2048</button></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.grubhub.com" target="_blank"><button type="button">Food</button></a></td>
+            <td colspan="2"><a href="https://store.steampowered.com/" target="_blank"><button type="button">Game</button></a></td>
+            <td>    
+                <table border="1" align = "center" width="90%" height="90%">
+                <tr>
+                    <td><a href="https://www.facebook.com" target="_blank"><button type="button">Social Life</button></a></td>
+                </tr>
+                <tr>
+                    <td><a href="https://www.sleepfoundation.org/" target="_blank"><button type="button">Sleep</button></a></td>
+                </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3"><a href="https://drizly.com/beer/c2" target="_blank"><button type="button">Beer</button></a></td>
+            <td><a href="https://www.google.com" target="_blank"><button type="button">WC</button></a></td>
+        </tr>
+    </table>
+    <hr>
+</body>
+
+</html>
