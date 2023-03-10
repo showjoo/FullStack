@@ -1,0 +1,46 @@
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color:#272e31;    
+}
+a{
+    text-decoration: none;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.container ul{
+    list-style: none;
+    padding: 0;
+}
+.menu li{
+    font-size: 10px;
+    letter-spacing: 2px;
+    margin:6px 0;
+    border-bottom: lightslategray solid;
+}
+#office li{
+    font-size: 10px;
+    letter-spacing: 2px;
+}
+.container a, .container h4{
+    color:white;
+}
+#office li, #office h6{
+    color:grey;
+}
+.container a:hover{
+    color:lightslategray;
+}
+.footer{
+    background-color: black;
+    height:50px;
+    width:100%;
+}
+.footer p{
+    color:white;
+    margin: 0;
+    padding: 10px 0 0 50px;
+}

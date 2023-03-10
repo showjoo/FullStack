@@ -1,0 +1,103 @@
+*{
+    font-family:Arial;
+}
+body{
+    margin:0;
+}
+.wrapper {
+    margin:0;
+    display:flex;
+    flex-direction:column;
+    min-height: 100%;
+}
+.nav {
+    height: 200px;
+    background-image: url('https://a.chdev.tw/club/article/201903/article-5c9c92746736a.jpg');
+    background-size: 30%;
+    width: 100%;
+    margin:0;
+    padding:0;
+    display:flex;
+    justify-content:flex-end;
+    align-content:center;
+}
+#title {
+    color: rgb(127, 37, 223);
+    font-size: 20px;
+    font-weight: bold;
+    margin: 100px 10.5% 0 0;
+}
+.menu{
+    display: flex;
+    background-color:lightgray;
+}
+.menu button {
+    background-color: lightgray;
+    color: rgb(127, 37, 223);
+    width: 200px;
+    height: 50px;
+    border: solid 1px lavender;
+    border-radius: 2px;
+}
+.menu button:hover {
+    background-color: rgb(127, 37, 223);
+    color: lightgray;
+}
+
+.container {
+    background-color: white;
+    position:relative;
+    display:flex;
+    min-height:70vh;
+}
+.left-container {
+    width: 70%;
+}
+.right-container {
+    width: 30%;
+
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin: 40px;
+    border: 1px rgb(127, 37, 223) solid;
+    border-radius: 8px;
+    padding: 25px;
+    overflow-wrap: break-word;
+    
+}
+.content h3 {
+    color: rgb(127, 37, 223);
+}
+
+.product {
+    display: flex;
+    padding: 15px;
+    overflow-wrap: break-word;
+}
+
+.product-text {
+    display: flex;
+    flex-direction: column;
+    padding: 5px 10px 0px 20px;
+    overflow: auto;
+}
+
+.product img {
+    width:250px;
+    height:auto;
+}
+
+.footer{
+    background-color:rgb(127, 37, 223);
+    height:50px;
+    width:100%;
+}
+.footer p{
+    color:white;
+    margin: 0;
+    padding: 15px 0 0 50px;
+}
